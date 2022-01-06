@@ -2,20 +2,34 @@
 
 <h1 align = 'center'>Programmer - Web Developer</h1>
 
-## 👋🏻 Oi, Sou o Lucas! Seja bem vindo ao meu perfil. <br> 👋🏻 Hi, I'm Lucas! Welcome to my profile.
+| 👋🏻 Oi, Sou o Lucas! Seja bem vindo ao meu perfil. | 👋🏻 Hi, I'm Lucas! Welcome to my profile.|
+|----|----|
 
-### 👨🏻‍💻 Sobre mim
+<div>
+  <p>
+    <h3> 👨🏻‍💻 Sobre mim </h3>
 
-🔍 Gosto de explorar novas tecnologias e desenvolver softwares.\
-🌎 Pretendo mudar o mundo!\
-📝 Atualmente estudo ciência da computação pelo Instituto Federal do Ceará (IFCE).\
-⏰ Em meu tempo livre desenvolvo aplicações que possam ajudar a vida de alguem próximo a mim.\
-🧩 Gosto de jogar vôlei e League of Legends.\
+  🔍 Gosto de explorar novas tecnologias e desenvolver softwares.\
+  🌎 Pretendo mudar o mundo!\
+  📝 Atualmente estudo ciência da computação pelo Instituto Federal do Ceará (IFCE).\
+  ⏰ Em meu tempo livre desenvolvo aplicações que possam ajudar a vida de alguem próximo a mim.\
+  🧩 Gosto de jogar vôlei e League of Legends.
+  </p>
 
+  <p>
+    <h3> 👨🏻‍💻 About me </h3>
+
+  🔍 I like to explore new technologies and develop software. \
+  🌎 I intend to change the world! \
+  📝 currently studying computer science at the Federal Institute of Ceará (IFCE). \
+  ⏰ In my spare time I develop applications that can help the life of someone close to me. \
+  🧩 I like to play volleyball and League of Legends.
+  </p>
+</div>
 
 <img align='right' src= 'https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif'>
 
-### 🛠 &nbsp;Tecnologias
+### 🛠 &nbsp;Tecnologias | Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
